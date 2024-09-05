@@ -290,5 +290,5 @@ def update_custom_graph(selected_variables, start_date, end_date):
 
 # Ejecutar el servidor Flask
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    main.run_server(debug=True)
 
