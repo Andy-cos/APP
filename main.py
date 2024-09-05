@@ -8,10 +8,10 @@ from datetime import datetime, timedelta
 
 # Configuración de la base de datos
 db_config = {
-    'host': 'monorail.proxy.rlwy.net',
-    'port': '18774',
+    'host': 'junction.proxy.rlwy.net',
+    'port': '39449',
     'user': 'root',
-    'password': 'KUmWNRFpmbrQCUOxgDHOiGNswZaPDELN',
+    'password': 'uahuKJRgFOXAWgYgIDSIGcvPJFkysVtI',
     'database': 'railway'
 }
 
